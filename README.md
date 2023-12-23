@@ -1,1 +1,1 @@
-# Webside Quản lý kho hàng 
+# Warehouse Management Website
